@@ -4,4 +4,4 @@
 
 1. Class Diagram
 
-![Class Diagram](TheNextCar/assets/Class%20Diagram.png)
+<img src="TheNextCar/assets/Class%20Diagram2.jpg" width= "200">
